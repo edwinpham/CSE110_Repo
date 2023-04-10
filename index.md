@@ -1,4 +1,4 @@
-![](https://res.cloudinary.com/practicaldev/image/fetch/s--XURexv5l--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/w0tci0oyztfaduazx54s.png)
+![Web Page Header](https://res.cloudinary.com/practicaldev/image/fetch/s--XURexv5l--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/w0tci0oyztfaduazx54s.png)
 
 👋🏼 Hi, I’m Edwin!
 - 🔬 I'm currently a student at [UC San Diego](ucsd.edu) pursuing a [Cognitive Science](https://cogsci.ucsd.edu) Major with a Specialization in [Design and Interaction](https://cogsci.ucsd.edu/undergraduates/major/design-interaction.html).
