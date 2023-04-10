@@ -9,3 +9,6 @@
   - Email: Edwintpham@gmail.com
   - Phone: (707) 205 - 5468
   - [LinkedIn](https://www.linkedin.com/in/edwin-pham-9982b81b2/)
+
+
+![End](https://thumbs.dreamstime.com/b/thank-you-message-person-using-laptop-computer-168457246.jpg)
